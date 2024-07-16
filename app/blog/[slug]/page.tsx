@@ -29,7 +29,7 @@ export default async function BlogArticle({
   console.log(data);
 
   return (
-    <div className="mt-8">
+    <div className="my-8">
       <h1>
         <span className="block text-base text-center text-primary font-semibold tracking-wide uppercase">
           Ainur Rofiq - Blog
